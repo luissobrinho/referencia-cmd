@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Referências CMD</string>
+    <string name="app_name2">Sobre</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+    <string name="developer">Luis Eduardo Altino</string>
+    <string name="email_developed">ads.luis.sobrinho@gmail.com</string>
+    <string name="title_activity_contents">Contents</string>
+    <string name="aviso">Sua mensagem vai ser enviada por email.</string>
+</resources>
